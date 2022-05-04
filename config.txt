@@ -1,0 +1,2 @@
+IP=pop.gmail.com
+PORT=995
